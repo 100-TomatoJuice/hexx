@@ -27,7 +27,7 @@ serde = ["dep:serde", "glam/serde"]
 bevy_reflect = ["dep:bevy_reflect"]
 
 [dependencies]
-glam = "0.25"
+glam = "0.24"
 
 [dependencies.serde]
 version = "1"
