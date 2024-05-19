@@ -36,7 +36,7 @@ features = ["derive"]
 optional = true
 
 [dependencies.bevy_reflect]
-version = "0.13"
+version = "0.11"
 default-features = false
 features = ["glam"]
 optional = true
